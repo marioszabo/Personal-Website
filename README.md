@@ -18,4 +18,4 @@ skills fundamental to pursuing a carreer in Cloud. The project was published by 
   - Github Actions
   - DynamoDB
 
-## [Live Demo 🔗](marioszabo.net)
+## [Live Demo 🔗](https://marioszabo.net)
