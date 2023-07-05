@@ -23,7 +23,7 @@ function toggle_onclick($win, $navbar, width) {
         $navbar.css({ left: '0px' });
     }
 }
-
+/*
 var typed = new Typed('#typed', {   
     strings: [
         'Network Administrator'
@@ -32,7 +32,7 @@ var typed = new Typed('#typed', {
     backSpeed: 50,
     loop: true
 });
-
+*/
 var typed_2 = new Typed('#typed_2', {
     strings: [
         'Network Administrator'
