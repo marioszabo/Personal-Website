@@ -1,8 +1,10 @@
-# Personal-Website
+# Personal Website for the Cloud Resume Challenge
 
 This project is my attempt to complete [The Cloud Resume Challenge](https://cloudresumechallenge.dev/) in AWS- a multi-step resume project which helps build and demonstrate
 skills fundamental to pursuing a carreer in Cloud. The project was published by Forrest Brazeal.  
 
+## Architecture
+![alt](https://media.licdn.com/dms/image/D4D12AQFAlO-YKf_TSg/article-inline_image-shrink_1500_2232/0/1681562647978?e=1694044800&v=beta&t=e6BIYkaUfNBT1V2hKkHF4ogcOGLlggkVhcNEgKbdJa0)
 
 ## How it works
 
